@@ -1,0 +1,19 @@
+{
+  "name": "@gsahar/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSahar/ajs.git"
+  },
+  "author": "andrey-saxarov@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSahar/ajs/issues"
+  },
+  "homepage": "https://github.com/GSahar/ajs#readme"
+}
